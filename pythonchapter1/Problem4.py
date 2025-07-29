@@ -1,6 +1,9 @@
 import os
 
 
+# WAP toprint the contents of a directory using the OS module
+# Search online the function which does that
+
 def list_directory_contents(path='/Users'):
     try:
         # Get the list of all files and directories

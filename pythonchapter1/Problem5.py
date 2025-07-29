@@ -1,6 +1,6 @@
 import os  # Import the os module
 
-
+# Label the program written in problem 4 with coments:
 # Function to list contents of a directory
 def list_directory_contents(path='/'):
     try:
